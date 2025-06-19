@@ -1,6 +1,11 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=belurgas&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=belurgas&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=belurgas&theme=github_dark)
+<div id="stat" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=belurgas&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=belurgas&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=belurgas&theme=github_dark" />
+</div>
+
+### About Me
+- 🔶 I'm Rust Developer
 <!--
 **belurgas/belurgas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
