@@ -1,4 +1,7 @@
 <div id="stat" align="center">
+  <img src="https://www.codewars.com/users/Coder0q/badges/micro" />
+</div>
+<div id="stat" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=belurgas&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=belurgas&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=belurgas&theme=github_dark" />
